@@ -12,6 +12,6 @@
     @apply text-text_100 bg-bg_100 tracking-wider font-dmsans;
   }
   section {
-    @apply pt-16 pb-4 md:pt-20;
+    @apply pt-5 pb-4 md:pt-5;
   }
 }
